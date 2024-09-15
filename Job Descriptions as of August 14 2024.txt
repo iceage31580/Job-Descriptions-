@@ -1,0 +1,803 @@
+IT Help Desk Technician 
+CR&R Inc 
+As a Help Desk Technician you will play a vital role in supporting CR&R staff, both local and remote by providing exceptional technical assistance. You will work in a dynamic, multi-platform environment, supporting network infrastructure, PC's and company mobile devices. Under the guidance of IT Leadership, you will collaborate with various departments to prioritize and resolve technical issues efficiently.
+DUTIES & RESPONSIBILITIES
+- Respond promptly to end-user requests, ensuring customer satisfaction and adherence to Service Level Agreements (SLAs).
+- Manage and support mobile devices, laptops, desktops, WiFi LAN connections, printers, and phones.
+- Address and resolve inquiries related to software or hardware usage.
+- Diagnose and troubleshoot technical issues across all IT environments, including operating systems, networks, applications, and hardware.
+- Set up new equipment and perform minor hardware and software repairs.
+- Accurately document trouble tickets and solutions in a timely manner.
+- Collaborate with IT team members to manage ticket handoffs.
+- Train users on proper hardware and software usage and update training materials as needed.
+- Install and configure IT hardware, software, and peripherals.
+- Conduct IT equipment and asset tracking and inventory management.
+QUALIFICATIONS
+- 3-5 years experience in a hands-on IT / Help Desk Environment
+- Bachelors degree in Information Technology preferred, but not required
+- Comprehensive understanding of basic networking concepts.
+- Hands-on experience troubleshooting network issues, printer problems, network connectivity, WAN, and internet-related issues.
+- Proficiency in domain environments and Active Directory (AD), DNS, DHCP, Wi-Fi, Firewall, and IP telephony.
+- Experience supporting and managing Microsoft Windows in a domain environment.
+- Strong documentation skills and attention to detail.
+- Excellent verbal and written communication skills.
+- Ability to multitask and stay organized.
+- Proficiency with Office 365, Microsoft Outlook, and Microsoft Excel.
+- Positive, self-motivated, and a team player with an independent and helpful demeanor.
+- Experience with VPN configuration, support, and remote access technologies.
+Level 2 Support Engineer 
+
+Sidewerks 
+
+Are you ready to make a difference? Step into an exhilarating role where you’ll be the hero solving complex technical challenges for our esteemed clients in the hospitality industry. With a perfect blend of remote flexibility and occasional on-site engagements, this position offers the best of both worlds. If you thrive on tackling tough problems, enjoy working with cutting-edge technology, and love making customers happy, this is the perfect opportunity for you!
+Key Responsibilities:
+- **Expert Troubleshooter:** Provide top-tier support on all company-supported applications and hospitality management systems. Dive into difficult computer and network issues, identify errors, and resolve them efficiently. When needed, escalate trouble tickets to the next level.
+- **Project Powerhouse:** Take charge of application project-based work, solving intricate technical issues using third-party vendors, all while adhering to company standards, policies, and procedures.
+- **Network Navigator:** Administer local area network (LAN) operations, supporting servers, workstations, printers, and other networked equipment vital to the hospitality industry.
+- **Solution Finder:** Investigate user problems, identify potential solutions, and implement them to ensure smooth operations.
+- **Tech Guru:** Install, configure, and maintain personal computers, Windows networks, file servers, network cabling, and related equipment. Upgrade and configure disk drives, printers, and other hardware as needed.
+- **Problem Solver:** Troubleshoot networks, systems, and applications to pinpoint and correct malfunctions and other operational difficulties.
+- **Trainer Extraordinaire:** Develop and deliver training sessions for system users on operating systems and applications, helping them maximize the use of networks and computing systems.
+- **Confidentiality Keeper:** Maintain strict confidentiality regarding information processed, stored, or accessed by end-users on the network.
+- **Hospitality Hero:** Assist hospitality management company personnel with any computer-related needs, acting as a crucial resource.
+- **Security Sentinel:** Support and participate in the organization’s Continual Improvement Program to conform to ISO 27001:2013 requirements, complying with the Information Security Policy and procedures, and meeting ISMS objectives. Understand and report any information security issues or incidents.
+**What We’re Looking For:**
+- Exceptional ability to communicate technical information to non-technical personnel.
+- Proven skills in installing, configuring, and maintaining hospitality computers, networks, and related hardware and software.
+- Strong knowledge of computer and network security systems, applications, procedures, and techniques.
+- Talent for identifying and resolving computer system malfunctions and operational problems.
+- Excellent organizational skills and the ability to set priorities effectively.
+- Outstanding verbal and written communication skills.
+- Quick learner, eager to support new systems and applications.
+
+Computer Systems Analyst/Programmer Associate 
+
+United States Postal Service 
+DUTIES AND RESPONSIBILITIES:
+1. Participate in the project planning process that determines programming and hardware needs. Assist in preparing programming specifications and in developing coding logic.
+2. Prepare charts, diagrams, and other program and system documentation as needed.
+3. Code, test, and debug detailed programming instructions, based on programming specifications normally prepared by higher level analysts/programmers, and using computer languages identified and available in the Infrastructure Tool Kit (ITK).
+4. Maintain current knowledge of and follow all security procedures. Identify, respond to, and report actual or potential security risks.
+5. Assists in the installation of updates and revisions to computer programs and procedures.
+6. Prepares and provides final documentation on revisions and updates for the computer operations function.
+7. Provides technical support to end users on the revisions or updates.
+8. Performs other job-related tasks as assigned or required to support the duties outlined above.
+FUNCTION:
+Work alone or as part of a team on small, moderately complex projects, assisting higher level analysts/programmers in the analysis, evaluation, development and maintenance of computer programs, systems, and procedures used to process data.
+DESCRIPTION OF WORK:
+See the Standard Position Descriptions for the Occupation Codes given above.
+REQUIREMENTS:
+This section is composed of Knowledge, Skills, and Abilities (KSAs) which are required to satisfactorily perform the tasks of the position. Applicants must demonstrate that they possess a sufficient level of each KSA, to include at least minimum competency for senior-qualified positions to enable them to perform these tasks satisfactorily. Applicants demonstrate these levels by describing examples of experience, education, or training, any of which may be non-postal. Ratings are based on the demonstration of the level of possession of each of the KSAs. Failure to demonstrate any KSA is disqualifying.
+1. Knowledge of application development, such as WEB, batch, and object-oriented.
+2. Knowledge of industry-standard software development life cycle processes.
+3. Ability to use relational database technology.
+4. Experience writing, editing and updating programs in support of software applications, using one or more programming languages such as JAVA, SQL, COBOL and/or Visual Basic.
+5. Experience testing, debugging and repairing programs sufficient to meet software specifications.
+6. Ability to solve problems using analytical skills.
+7. Ability to work without immediate supervision.
+8. Ability to work with others in a team environment.
+9. Ability to read and understand job-related materials such as instructions, specifications, references and manuals.
+10. Ability to communicate orally and in writing.
+
+Computer Technician 
+
+Cedars-Sinai 
+
+Cedars-Sinai Medical Center has been named to the Honor Roll in U.S. News & World Report’s “Best Hospitals 2024-2025” rankings. When you join our team, you’ll gain access to our groundbreaking biomedical research facilities and sophisticated medical education programs. We offer learning programs, tuition reimbursement and performance-improvement projects so you can achieve certifications and degrees while gaining the knowledge and experience needed to advance your career.
+
+We take pride in hiring the best, most hard-working employees. Our dedicated doctors, nurses and staff reflect the culturally and ethnically diverse community we serve. They are proof of our dedication to creating a dynamic, inclusive environment that fuels innovation and the gold standard of patient care we strive for.
+
+What will you be doing:
+
+The Department Computer Technician provides technical and administrative support for computer systems and services. Provides end user support, database maintenance, data collection and integrity, production of standard online and ad-hoc reports, and system troubleshooting. Coordinates and assists with system support activities, such as installation, configuration, and upgrades. Maintains inventory of hardware and software programs and licenses. Responsible for the coordination of escalated computer and technology support and security services with EIS. May perform routine and simple systems and applications programming tasks. May assist with the review, acquisition and implementation of software and hardware. May assist in the maintenance of the department's website.
+
+Provides help-desk support by assisting end users with system access, navigation, on-demand reports, and troubleshooting. Educates users and provides instructions on how to access data and run online reports.
+Coordinates and trouble-shoots hardware and software problems.
+Maintains department databases. Responsible for data collection from multiple different sources. Responsible for data integrity; enters and audits data for accuracy and reliability. Maintains a tracking system to ensure all data is received, audited and keyed in a timely and accurate manner. May maintain system master files and tables.
+Produces regular, recurring standard online reports and simple ad-hoc reports using system report-writing tools.
+Assures department computers are accurately backed up on a daily and periodic basis. Responsible for performance and verification of daily backups for the department’s network, server(s) and other systems.
+Notifies' management staff immediately of system problems that impact patient care or productivity. Assures that emergency procedures and support contact/help numbers are accurately posted for management and staff.
+Develops and maintains system documentation for system data updates and procedures for review by technical staff and department manager.
+Maintains an up-to-date inventory of department hardware and software programs and licenses owned by the department. Tracks information regarding purchase date for software programs, version, and updates. Responsible for maintaining, organizing and safeguarding the software license files for the department.
+May maintain department’s internet and intranet websites by updating information.
+May be responsible for or coordinate system security levels/computer access according to CSMC and department policies and procedures. Follows procedures to add, delete or change user’s rights and access.
+
+
+Qualifications
+
+Experience Requirements:
+
+Two (2) plus years of experience in computer hardware and software troubleshooting and providing solutions to system problems.
+
+Experience With Various Reporting Tools, Crystal Preferred.
+
+Experience with PC’s and applications.
+
+Experience installing and configuring computer software and maintenance of installed programs, including Microsoft Office, database maintenance, etc.
+
+Educational Requirements:
+
+High School Diploma/GED.
+
+Associate’s degree in business, computer science, or related area preferred.
+
+
+
+System Administrator 	
+
+Amen Clinics 
+
+The System Administrator is responsible for overseeing the smooth administration, maintenance and security of our company’s on-premise and cloud based network and server architecture. Their duties include server and network administration, security, support, and coordinating with IT team members to determine new technologies that streamlines business processes. This is a position for candidates with a drive and aptitude to provide expert IT solutions and services in a health care setting. This position requires you to work both independently and collaboratively with other members of the IT team. The successful candidate has a strong attention to detail and follows through on projects, issues and incidents.
+Essential Duties and Responsibilities:
+Perform systems engineering tasks and activities that are concentrated on major systems design, integration, implementation, operations support, and training
+Configuring, troubleshooting and monitoring Windows Server physical and virtual environments
+Experience installing, maintaining, upgrading, monitoring and troubleshooting network routers, switches, firewalls, access points
+Administration of Active Directory and Azure AD, including user and group administration and group policy management
+Configure and manage hybrid Azure environment to configure VMs, Storage, Network and Security resources
+Configuration and management of ShoreTel VOIP system
+Configuration and management of Genesys Cloud CX solution
+Administer and manage daily backups and restoration of business critical systems on and off premise including Backup Exec, Datto, Azure and AWS
+Assists with implementing and maintaining the company’s anti-virus and end point security platforms to ensure servers and computers are protected from all forms of malicious software, viruses, ransomware and security intrusions
+Identify technology needs for continued growth and success of the company, identify proactive solutions, and research and identify new products to improve business efficiency
+Perform user account administration including setup, rights, email distribution and security groups
+Provide escalation support to internal support and applications teams and MSPs
+· Reviews and analyzes system, application, and other event logs to troubleshoot issues
+· Conducts routine hardware and software audits of network and server security to ensure compliance with established standards, policies, and configuration guidelines
+· Compose infrastructure diagrams, process workflows, policy documents, and training materials as assigned
+· Provide Tier 2-3 support as needed
+Qualifications and Requirements:
+Bachelor’s Degree Required
+CCNA, MCSA Certification or equivalent certifications preferred
+2-4 years of experience working as a system admin or similar position
+3-5 years of experience working as a service desk tech or like position
+Strong understanding of layer, 1, layer 2 network protocols (VLANs and Trunking) and layer 3 protocols (TCP/IP, EIGRP, OSPF) required
+Experience configuring and managing Meraki firewall, routers and switches
+PowerShell or other automation and scripting experience
+Experience with troubleshooting and deploying Windows 2008, 2012, 2016, 2019 Servers
+Experience architecting and deploying Azure resources
+Knowledge of HIPPA privacy and Security rules
+Uncompromising integrity and transparency in dealing with employees, executive leadership, external auditors, customers, prospects, and investors.
+Ability to effectively organize, prioritize tasks, meet deadlines and multitask in a fast-paced environment.
+Ability to maintain confidentiality of sensitive and protected patient information.
+Must be organized and detailed oriented
+Ability to solve practical problems and deal with a variety of concrete variables in situations where only limited standardization exists. Ability to interpret a variety of instructions furnished in written, oral, diagram, or schedule form
+Must be able to speak, read, and write English
+Must have excellent communication and interpersonal skills and must be customer service oriented
+Experience managing AD, Group Policy, Azure, Hyper-V Clustering
+Experience administering Office 365 environments
+Programming experience in Python, Perl or other language preferred
+Experience managing MSSQL Server preferred
+Knowledge of Unix System administration preferred
+Experience with managing Genesys Cloud CX, Salesforce preferred
+Experience with managing SAGE 100, Biz Insights and/or Crystal Reports preferred
+Experience with BackupExec, Datto or similar disaster recovery solutions preferred
+Experience managing Dell Unity Storage Array preferred
+
+System Support Analyst, IST 
+
+Wayfinder Family Services
+
+
+Role Summary
+The Information Systems & Technology (IST) Support Analyst is responsible for handling the daily processes for helpdesk service operations. This includes end-user support, issue resolution, training/guidance for various technologies and systems, and IT equipment configuration and deployment. This position timely and accurately responds to support requests to ensures proper resolution or escalation within the department or to the agencys MSP IT vendor. The training aspects include IT/IS orientation, assisting users with software navigation or functionality questions, and drafting user guides or reference materials, as assigned.
+Responsible for triaging and resolving various onsite and remote tier 1 & 2 IST support tickets.
+Respond timely and accurately to user requests within IST designated SLA.
+Handle WFS staff technical onboarding, including New Hire orientation training and equipment disbursement.
+Maintain an up-to-date IST asset inventory.
+Communicate efficiently and effectively with management, users, and internal/external resources for all assigned duties and tasks.
+Collaborate and work with other IST department analysts.
+As assigned, attend and actively participates in project meetings, committees, user groups, and other events.
+Perform other departmental duties as assigned by the Information Technology Manager or at the request of the Senior Director of IST.
+Travel between WFS local sites as needed.
+Associate degree preferred, or certification from an accredited program focused on technology support; OR at least 4 years of directly related work experience. An equivalent combination of education and experience may be considered.
+Minimum 3 years of experience working with desktop support, including user support operations, user training material development, user training delivery, systems analysis, and issue troubleshooting and resolution techniques.
+Experience supporting desktop computing environments, including Microsoft products, Windows, Office365, Active Directory, and various other productivity software.
+Experience in a healthcare setting including support of clinical and billing operations for behavioral health is a plus.
+Possess valid California drivers license and maintain an insurable driving record under the agencies liability policy and be able to travel between the agency site locations when necessary.
+
+Database Administrator
+
+Amplifire eLearning 
+Database Administrator  
+Responsibilities
+· Responsible for the development, performance, integrity, and security of database systems
+· Identify and resolve database performance issues, such as slow queries, inefficient indexing, or resource contention
+· Maintain and support data models across the OLTP and Reporting platforms
+· Good data analysis experience with an eye for data integrity
+· Create database patches supporting new functionality (DDL and DML)
+· Assist in the creation and population of all non-production systems
+· Perform and help support our Operations team with production infrastructure and application deployments
+· Perform security reviews, database upgrades and maintenance as needed
+· Recommend and implement emerging database technologies.
+· Support on-call activities as needed
+Technical Stack
+· Database Platform: PostgreSQL
+· Languages: SQL, Perl, Python, Shell, PHP
+· Tools: Postman, DBAdmin (or similar), AWS Monitoring
+· Server: Linux (RHEL)
+Skills & Requirements
+· Experience working with PostgreSQL
+· Knowledge of AWS RDS / Aurora
+· Work with teams to ensure database integrity and security
+· Performs development of DML, DDL, and other database functions or procedures
+· Ensure storage, backup, and archiving procedures are functioning correctly
+· Knowledge or experience with agile development methodologies
+· Experience with git
+· Excellent communication skills with a "can do" customer facing attitude
+· Independent, self-starter who is resourceful and an excellent team player
+· Strong desire to learn with an ability to pick up new concepts and technologies quickly
+· Ability to be flexible, proactive, accountable, decisive and successful working in an environment of change
+· Good understanding of SQL and ability to write complex statements
+· Generate documentation and SOP for all processes implemented
+
+
+Day One Agency 
+IT Helpdesk Technician 
+Key Responsibilities:
+Manage the installation and configuration of software on Apple devices, ensuring seamless operation across the agency.
+Partner with the People team to assist with new hire tech orientations for West Coast staff, both virtually and in-person, ensuring a smooth onboarding process and clear communication of company policies and procedures.
+Provide advanced support for over 100 Apple devices, including troubleshooting, maintenance, and setup.
+Regularly audit systems to ensure compliance with security protocols and performance benchmarks.
+Set up, troubleshoot, and maintain office technology including video conferencing systems, printers and workstations.
+Receive, prioritize, and document technology-related requests, ensuring timely resolution and excellent service.
+Maintain and manage an accurate inventory of all IT hardware and software.
+Assist operations team when needed with technology adjacent tasks.
+Undertake other IT-related tasks as assigned by the IT Director.
+Act as a crucial extension of the Technology Team, delivering exceptional service to all staff members and guests.
+
+
+IT Associate I
+Relatively Space 
+Skills in technical systems, hardware repair, and network management
+Resourcefulness and quick-thinking nature to troubleshoot new and critical technical issues as they arise.
+Ability to image, deploy, configure, and support operating systems on desktop and mobile
+Familiarity with both PC and other end point computing hardware and software
+Writing and editing skills to aid in writing and updating procedural documents and documenting tickets
+Working knowledge of office automation products and computer peripherals, like printers and scanners
+Ability to perform remote troubleshooting and provide clear instructions
+
+
+Nice To Haves But Not Required
+
+3+ years of experience in IT Support
+Linux, Mac, iOS and Android
+Knowledge basic cloud administration
+Familiarity with tools such as SCCM, MDM, Imaging, ServiceNow, Backup systems
+Experience with Atlassian products administration including Jira, Confluence, Bitbucket, and Bamboo
+Aerospace and/or ITAR/NIST experience
+
+IT Support Specialist 
+Zonberation Group 
+Job Description:
+Department: IT Online Service Centre -
+Location: Culver City
+Position type: The role:
+1. Your primary focus will be on delivering exceptional customer service. You'll utilize your customer relationship skills to engage with users, addressing their IT inquiries, requests, and incidents promptly through tickets and instant messaging channels.
+2. You're a problem solver. You delve into the root causes of issues, devising effective solutions that empower users to seamlessly navigate our system.
+3. communication skills will be crucial as you liaise between our users and technology teams, ensuring clear alignment and timely resolution of issues.
+4. You're task driven. Completing assigned tasks on time and managing your own workload
+5. You're a team player. You'll present yourself and leverage your experience or expertise in the best way to our technology teams, business teams and everyone else involved it in the process.
+6. You're growing. Committed to personal growth and excellence, you will continuously seek opportunities for self-improvement and contribute to the overall enhancement of our operations.
+7. You're a quality seeker. Delivering accurate and exceptional results.
+Requirements:
+1. Computer Technology related degree
+1-3 years IT helpdesk or desktop support experience, experience in remote IT support
+2. Working knowledge of Windows & MacOS, iOS & Android, tickets : system, application, networking and video conference technologies
+3. Fluent in English and Chinese is preferred but not compulsory.
+MCSE/MCITP, ITIL certificate is ideal
+4. Excellent communication who can explain complicated IT problems to non-tech individual
+5. Excellent customer service skills with polite manners and being able to handle pressure from frustrated users.
+6. Strong IT troubleshooting and problem-solving skills Great team player who can work in a collaborative culture
+7. Self-motivate, open-to-learn, receptive to change and improvement Ability to manage and prioritize own tasks and helpdesk issues
+
+
+IT Specialist - (Entry Level) 
+University of Minho 
+The IT Specialist will support the Trade Desk/office in a variety of responsibilities.
+Responsibilities:
+Collaborate with the Firm’s managed service provider.
+Maintenance of networks, hardware, and software.
+Solves computer problems, prepares computer equipment for installation.
+Diagnoses and resolves problems brought to your attention by end-users.
+Proactively identify and address potential issues.
+Implement and maintain Casey’s cybersecurity policies.
+Collaborate with third party vendors that provide software and hardware solutions.
+Required Skills and Experience:
+Problem solving skills
+High attention to detail
+Able to handle multiple projects at one time
+Excellent interpersonal, analytical, and communication skills
+Flexible and calm under pressure
+Ability to stay composed in an extremely fast paced environment
+
+IT Helpdesk Support Specialist 
+PsiQuantum 
+Responsibilities:
+Proficiency in Excel and high-level data analysis for audits.
+Proven team player with the ability to work effectively across departments, sites, and time zones.
+Ability to work with C-Level Executives.
+Excellent verbal and written communication skills with the ability to communicate effectively to a variety of audiences, including executive team members.
+Strong critical thinking, creative, innovative, analytical, and detail-oriented problem-solving skills.
+Ability to work independently with limited direction.
+Excellent notetaking and documentation skills.
+Familiarity with working in a lab environment.
+Demonstrated ability to juggle multiple priorities and deliver against a schedule.
+Ability to contribute to a fast-moving start-up environment.
+Skills, and Abilities:
+Strong understanding of IT systems and infrastructure.
+Proficiency in managing helpdesk ticketing systems.
+Excellent troubleshooting and problem-solving skills.
+Familiarity with Microsoft Office 365 administration.
+Knowledge of network troubleshooting (DNS, VPN, static IP).
+Ability to communicate effectively with technical and non-technical users.
+Strong organizational and time management skills.
+Ability to work independently and as part of a team.
+Experience with asset management and inventory control.
+Qualifications:
+Bachelor’s degree in Information Technology, Computer Science, or a related field (or equivalent work experience).
+2+ years of experience in IT support or helpdesk roles.
+Relevant certifications (e.g., CompTIA A+, CompTIA Network+ or similar)
+Role Expectations:
+Full-time position with occasional after-hours support as required.
+Ability to lift 50 lbs and move IT equipment as necessary.
+This position is on-site 5-days a week.
+
+IT Systems Administrator 
+Digital Healer 
+Digital Healer is an IT Managed Service Provider (MSP) founded in 2004 that delivers outsourced IT services for businesses. As the dependence on technology in the corporate world increases, so does the need for our comprehensive, reliable, and agile IT support.
+Our work environment includes:
+Modern Tech Stack
+Work-from-home days
+Autonomy
+A Small Tight Team of Experienced IT Pros
+*Overview*
+We are seeking a skilled Systems Administrator to join our team. The ideal candidate will be responsible for managing and maintaining our client's IT infrastructure, ensuring its efficiency and security.
+*Duties*
+Oversee the installation, configuration, and maintenance of software and hardware systems
+Monitor system performance and troubleshoot issues
+Implement and maintain information security protocols
+Collaborate with IT Team to support our clients.
+Work in an Agile environment to meet project deadlines
+Administer Azure Active Directory and Cloud servers and maintain system operations
+*Experience*
+Proven experience as a Systems Administrator or similar role
+Strong knowledge of IT infrastructure and system administration
+Experience with information security practices
+Expertise in Azure Cloud server administration
+Technical Skills:
+Network management and security (Meraki, UniFi)
+System administration for Windows and Linux and Mac platforms
+Cloud service management (AWS, Azure, Google Cloud)
+Microsoft technologies (Windows Server, Exchange, SQL, SharePoint, Office 365)
+Apple Mac and iOS Administration
+Virtualization (VMware, Proxmox)
+Remote access solutions (VPN, Remote Desktop)
+Firewall configuration and management (Meraki, Unifi)
+Backup and disaster recovery (VEEAM)
+Soft Skills:
+Strong communication skills
+Problem-solving and critical thinking
+Customer service orientation
+Adaptability and willingness to learn
+Teamwork and collaboration
+Other Important Skills:
+Familiarity with RMM (Remote Monitoring and Management) and PSA (Professional Services Automation) tools
+Cybersecurity best practices and threat mitigation
+Automation and scripting
+Documentation skills
+Time management and prioritization
+
+In-house IT Manager 
+
+Unisource National Lender Services 
+
+Unisource National Lender Services, a leading real estate related organization, is seeking a highly experienced I.T. Manager to work in our Los Angeles, CA corporate office. This position is crucial to the success of our I.T. infrastructure while successfully having the ability to multi-task different projects.
+Job Responsibilities
+1. Manages daily interaction and resolution of Network and local desktop related issues with employees from different offices.
+2. Asses cybersecurity, vulnerability management, patching, phishing and social engineering testing and remediation efforts.
+3. Responsible to handle external I.T. audit and compliance questions as required by regulatory agencies.
+4. Complete interaction with third party software vendors to insure the latest management and reliability of multiple hardware and software.
+Job Requirements
+1. Strong technical background to understand and handle daily technical issues as well making certain the reliability of the system.
+2. Excellent communication and problem solving skills.
+3. Ability to handle multiple project and communicate with vendors to insure updated systems and technology is in place.
+Employer subsidized health insurance benefits and vison, dental and life insurance is provided. For immediate consideration, please provide your resume.
+
+Student Systems Administrator 
+
+Legacy Systems Administrator 
+
+Position Overview: Legacy Education, a prominent institution with five campuses across California, is seeking a dedicated and detail-oriented Student Systems Administrator. This role is crucial for maintaining and optimizing the student information systems that support our academic and administrative functions. Reporting directly to the Vice President of Student Information Systems, the Student Systems Administrator will ensure the effective operation, security, and support of systems used by students, faculty, and administrative staff.
+Key Responsibilities:
+Administer and manage student information systems (SIS), customer relationship management (CRM), and Learning Management System (LMS) including setup, configuration, and maintenance.
+Monitor system performance, resolve issues, and ensure high availability of student-related systems and applications.
+Provide technical support and assistance to students, faculty, and staff related to the systems.
+Address and resolve user issues, including login problems, data access issues, and system errors.
+Ensure accurate and secure management of student data, including enrollment, grades, transcripts, and personal information.
+Perform regular data audits and clean-ups to maintain data integrity and compliance with institutional policies.
+Collaborate with system vendors to coordinate system updates, patches, and upgrades with minimal disruption to users.
+Collaborate with IT teams to ensure seamless integration of new features and improvements.
+Generate and manage reports related to student data and departmental needs.
+Support the development of dashboards and tools to provide insights for decision-making.
+Develop user guides, training materials, and conduct training sessions for students and staff on the student information systems.
+Maintain comprehensive documentation for system configurations, procedures, and best practices.
+Key Responsibilities continued:
+Ensure compliance with regulatory requirements related to student data, such as FERPA (Family Educational Rights and Privacy Act).
+Implement and manage security measures to protect sensitive student information from unauthorized access and breaches.
+Participate in IT projects related to the student information systems, including system enhancements and new implementations.
+Coordinate with various departments to gather requirements, test solutions, and ensure successful project delivery.
+Liaise with vendors and service providers for system support, upgrades, and troubleshooting.
+Evaluate new technologies and recommend solutions to enhance system capabilities.
+Other Duties as assigned
+Qualifications:
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+Minimum of 2-4 years of experience in systems administration, preferably with a focus on student information systems or similar educational environments.
+Proficiency in managing student information systems (e.g., Anthology Student, Blackboard Learn, Conext)
+Strong knowledge of database management, data security practices, and reporting tools.
+Excellent problem-solving skills and the ability to work independently and as part of a team.
+Effective communication skills and a customer-centric approach to user support.
+Familiarity with regulatory requirements and best practices for student data management is preferred.
+Relevant certifications (e.g., Certified Information Systems Security Professional (CISSP), Microsoft Certified Systems Administrator (MCSA)) are a plus.
+Additional Information:
+Occasional travel between campuses may be required.
+Flexibility in working hours may be needed to accommodate system maintenance and project deadlines.
+
+IT Systems Administrator
+Commercial Van Interiors 
+Full job description
+Systems Administrator
+The Systems Administrator will play a critical role in maintaining and optimizing our IT network and systems infrastructure. This position involves providing robust Tier 1-3 support, managing network configurations, and leading system setups and troubleshooting. As the local subject matter expert, you will leverage your experience in networking and system administration to support both in-office and remote environments. This position requires a full-time presence in the office five days a week, with occasional travel to remote sites.
+Responsibilities:
+Systems and Network Administration:
+· Oversee and maintain AD/Entra/O365 environments, file servers, and email systems.
+· Provision and secure users, systems, and networks for remote locations, ensuring seamless operations.
+· Administer both on-premises and cloud environments, including Microsoft Azure.
+· Collaborate with vendors to troubleshoot and resolve network and system issues efficiently.
+· Maintain Hardware and Software Inventory information (CMDB)
+Security, Cloud and Infrastructure:
+· Lead endpoint management, including patching and backups, to ensure system reliability and security.
+· Administer network and email firewalls, enforcing strict adherence to security protocols.
+· Contribute to disaster recovery planning and implementation, enhancing business resilience.
+· Conduct routine security checks and participate in audits to ensure compliance with industry standards.
+Operational Support:
+· Tier 1-3 remote support across multiple locations, with a focus on manufacturing and warehouse environments on the west coast.
+· Support ERP systems and other critical business applications, ensuring smooth daily operations.
+· Technical support for phones, Zebra scanners, and other essential warehouse/manufacturing equipment.
+Documentation and Coordination:
+· Develop, maintain, and update documentation for IT processes and procedures.
+· Create project plans for small to medium-sized projects, update progress, and work them through to completion.
+Required Qualifications:
+· Strong communication skills and the capability to swiftly earn trust from users across all corporate levels.
+· Advanced troubleshooting skills, with a systematic and logical approach to problem-solving.
+· Proactive individual capable of monitoring progress and delivering clear and precise updates.
+· Demonstrated experience in IT infrastructure and support, including:
+o AD/Entra/O365 environments.
+o Networking fundamentals (DNS/DHCP/Firewall).
+o Retiring network protocols.
+o Endpoint management.
+Preferred Qualifications:
+· Experience with multi-site hybrid environments.
+· Detailed knowledge of server, network, and email security.
+· Demonstrated IT operations support in manufacturing or warehouse environments.
+· Familiarity with Intune, Autopilot, and advanced endpoint management tools.
+Education and Experience:
+· Associate degree or equivalent experience in Information Technology or a related field.
+· 3-5 years of experience in IT support or system administration roles.
+Job Type: Full-time
+Pay: From $85,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Employee assistance program
+Flexible spending account
+Health insurance
+Life insurance
+Paid time off
+Professional development assistance
+Referral program
+Retirement plan
+Vision insurance
+Schedule:
+Day shift
+Ability to Relocate:
+Whittier, CA 90606: Relocate before starting work (Required)
+
+IT Administrator 
+
+Talmo & Associates 
+
+We’re seeking a skilled IT professional with logistics experience to help lead our Operations Support Department. If you have a strong background in logistics and are ready to take on a leadership role, this could be the perfect opportunity for you!
+**Key Responsibilities:**
+- Assist in managing the Operations Support Department
+- Collaborate with other departments to identify and address IT needs and issues
+- Troubleshoot and resolve issues with Cargowise alongside the support team
+- Help develop and revise SOPs to enhance operations
+- Take on additional tasks as assigned
+**Qualifications:**
+- Solid knowledge and experience in the logistics industry
+- Proven ability to develop and implement SOPs
+- Previous management or supervisory experience is essential
+- Experience with Cargowise strongly preferred
+- Bilingual in English/Japanese is a plus, but not required
+**Apply today and a Recruiter will reach out to schedule your initial virtual interview!**
+#INDHP
+Job Type: Full-time
+Pay: $70,000.00 - $80,000.00 per year
+Benefits:
+401(k)
+Dental insurance
+Health insurance
+Paid time off
+Vision insurance
+Schedule:
+8 hour shift
+Day shift
+Monday to Friday
+Application Question(s):
+Do you have experience working with Cargowise? If so, how many years?
+Experience:
+Logistics: 1 year (Preferred)
+Management: 1 year (Required)
+Language:
+Japanese (Preferred)
+Work Location: In person
+Data Centre Technician 
+
+Zitko Consulting Ltd 
+
+We're looking for an Data Center Tech to join the team at this Market Leading Global Tech Business. You will play a critical role in supporting the IT Engineering teams by providing invaluable support to various projects across the global office network. This role is a fast paced roll, that requires working to sometimes tight SLAs.
+
+What you'll do:
+
+Maintain and install IT network systems and servers in concert with cross functional IT teams to accommodate Snap Corporate Data Center systems.
+Manage integration vendors, supply chain distributors, and Internet service providers to resolve issues quickly and ensure scope of work agreements are being met.
+Track any bugs or system malfunctions while providing strong documentation of issues for team awareness.
+Develop proactive procedures for periodic system updates, testing and validation of functionality for all IT equipment.
+Collaborate with vendors and cross-functional teams to provide planning, coordination, logistics and execution for network and server deployments.
+Create standard operating procedures, troubleshooting guides and other best practice documentation.
+Identify when equipment replacement purchases or upgrades are needed and escalate to corresponding team members.
+Maintain equipment assets and consumables inventories.
+Provide cross functional communications on project status and follow up on punch list items with integration vendors on regional projects.
+Maintain system configuration files and infrastructure "As-Builts" in collaboration workspaces such as Google Drive.
+Uphold service level agreement standards and track team metrics to support the team's performance goals.
+
+NOC Technician 
+
+Konnect Holdings LLC 
+
+Fast-growing hi-tech company based in Santa Fe Springs, California in search of a highly motivated self-starter to join our team. This is a full-time, permanent position with competitive pay and great benefits. A strong candidate for this position must have a positive can-do attitude and a strong desire to be a team player. So, if you are not afraid of challenges and looking for great opportunities then we want to speak with you.
+RESPONSIBILITES
+· Establish and maintain positive Client relationships.
+· Remotely troubleshoot managed service-related issues on support calls with customers and/or field technicians
+Detailed documentation of Client issue and resolution including technical and non-technical inquiries to any NOC related services
+Evaluate network performance to optimize traffic flow
+Maintain security and improve processes
+Review system logs and monitor usage levels, bandwidth, performance and system security to target inefficiencies
+QUALIFICATIONS & EXPERIENCE
+2+ years’ experience working in Network Operations Center
+Previous experience in Telecom industry helpful
+Ability to work individually and in a team environment.
+· Excellent written and verbal communication skills are required.
+· Detail oriented, highly organized needed in order to fulfill deadlines
+· Work well under pressure
+· Regular, consistent, and punctual attendance
+· Current CCNA or CCNP preferred but not required.
+
+IT Service Desk 
+
+Illumination Foundation 
+
+“Every person deserves compassion, dignity, and the safety of a place to call home.”
+Homelessness is the largest social and public health crisis in California. Illumination Foundation (IF) is a growing non-profit organization dedicated towards disrupting the cycle of homelessness by providing targeted, interdisciplinary services in our recuperative care centers, emergency shelters, housing services and children's and family programs. IF currently has 13+ facilities with 22+ micro-communities scattered across Orange County, Los Angeles County and the Inland Empire.
+
+Job Description
+
+The IT Service Desk role is to support and maintain in-house computer systems, desktops, and peripherals. This includes installing, diagnosing, repairing, maintaining, and upgrading all user hardware and equipment while ensuring optimal performance. The person will also troubleshoot problem areas promptly and accurately and provide end-user training and assistance where required.
+
+The salary range for this position is $65,000.00 - $75,000.00 per annum, depending on experience.
+
+Responsibilities
+
+Receive and respond to incoming calls and/or e-mails regarding PC and/or hardware problems
+Perform hands-on fixes at the desktop level, including installing and upgrading software, installing hardware, implementing file backups, and configuring systems and applications.
+Record, track, and document the service desk request problem-solving process, including all successful and unsuccessful decisions and actions taken to final resolution.
+Install, configure, test, maintain, monitor, and troubleshoot end-user workstation hardware and software, networked peripheral devices, and networking hardware products.
+Liaise with and provide training and support to end users and staff on computer and software operation and other issues.
+Perform preventative maintenance, including checking and cleaning of workstations printers, and peripherals.
+If necessary, liaise with third-party support and/or equipment vendors.
+IT Equipment, license, User inventory management and Audits.
+Quality Assurance of installation and configurations.
+Development of equipment maintenance, setup, and configuration policies.
+
+Behavioral Standards:
+Exhibits excellent customer and service-oriented behaviors in everyday work interactions.
+Demonstrates a courteous and respectful attitude to internal workforce and external customers.
+
+Communication/Knowledge:
+Provides accurate and timely written and verbal communication of information in a manner that is understood by all.
+Able to listen, understand, problem-solve, and carry-out duties to ensure the optimal outcome.
+Able to use IT systems in an accurate and proficient manner.
+
+Collaboration/Teamwork:
+Contributes toward effective, positive working relationships with internal and external colleagues.
+Demonstrates cooperation, flexibility, reliability, and dependability in all daily work activities and a willingness to collaborate with others for the good of the customer and the organization.
+
+Preferred Experience/Minimum Qualifications
+
+Required:
+High school graduate
+At least 5 years of current PC Technician and/or Service Desk experience
+Excellent technical knowledge of PC hardware and networking
+Hands-on hardware trouble shooting experience.
+Able to read and understand technical manuals, procedural documentation, and OEM guides.
+
+Preferred:
+Current A+ or Network+ Certification preferred
+Experience in a healthcare setting preferred.
+
+Benefits
+
+Medical Insurance funded up to 91% by Illumination Foundation (Kaiser and Blue Shield), depending on the plan
+Dental and Vision Insurance
+Life, AD&D and LTD Insurance funded 100% by Illumination Foundation
+Employee Assistance Program
+Professional Development Reimbursement
+401K with Company Matching
+10 days' vacation PTO/year
+6 days sick PTO/year
+10 days holiday PTO/year
+Potential eligibility for the Public Service Loan Forgiveness Program (PSFL) for federally qualified loans
+tphbZV2Okf
+
+
+IT Manager 
+
+Great Wolf Lodge 
+
+At Great Wolf, the IT Manager is responsible for providing technical support and managing the systems at the lodge. Reporting directly to the Corporate IT Support Manager at this time, they will also have a dotted line to the General Manager of the property at which they are located. Technical support includes, but is not limited to workstation and printer installation and maintenance throughout the resort, administering the local server(s), monitoring the network, hardware performance, connectivity and backups. This position will also be responsible for assisting in the budget planning process to define systems needs at his/her property.
+Essential Duties & Responsibilities
+Work closely with on property staff on systems related issues pertaining to the PMS, POS
+Proactively monitor and administer the network, workstation operating systems, security system, safety, backups and servers related to the systems within his/her focus for the resort
+Assemble, disassemble, repair, install, and de-install computers and related equipment approved for use by the corporate office
+Supervise and train employees' use of the systems to assure compliance with pre-defined and set company policies
+Participate in job related training, classes, conventions, seminars and personal knowledge enrichment opportunities as directed
+Administer and enforce GWR license agreements for compliance budgetary accuracy
+Work closely with members of the GWR IT team
+Maintain accurate inventories of equipment while maintain an organized, safe and clean work area
+Assist the corporate IT on projects and support related issues in the field or at the corporate office
+Prioritize projects and support workload at the resort
+Conduct regular training sessions to keep the knowledge base at the properties current
+Basic Qualifications & Skills
+Bachelor's degree in IT or related field (or equivalent combination of education/experience)
+Four years of experience in hybrid networking, server, virtual and physical environments
+Strong support knowledge of O365, Microsoft Office, network technologies and concepts (TCP/IP, SMTP and Ethernet, Wide Area Networks), desktop/mobile OS and hardware as well as audio/visual support experience
+Demonstrated proficiency in Microsoft Office suite
+Successful completion of criminal background check and drug screen
+Desired Qualifications & Traits
+Microsoft Certification
+Previous IT experience in hotel/resort/theme park industry
+SCCM administration, and a working knowledge of Cisco and server virtualization
+Strong problem solving and organizational skills
+Attention to detail
+Enthusiastic and positive energy
+Multi-tasking ability
+Physical Requirements
+Able to lift up to 20 lbs.
+Able to bend, stretch, and twist
+Able to stand or sit for long periods of time
+
+
+
+
+
+
+
+
+Part Time Field Service Technician 
+
+Essintial Enterprise Solutions 
+
+Job Description
+Setting up and replacing hardware
+Imaging PC, and configuring drivers
+Replacing printer parts
+Replacing and configuring or repairing via detailed documentation
+Computers / Monitors
+Printers - Laser and Receipt
+Scanners
+Access Points
+Switches / Routers
+Power Backup / UPS
+Barcode Scanners / Card readers
+Server Hard drives and power supplies
+Point of sale equipment
+Card readers
+Scanners
+Receipt printers
+Able to strategically plan day / routes to meet deadlines
+Exceptional organizing and time-management skills
+Excellent communication skills and professional presentation
+Requirements:
+Valid Driver’s License and Car Insurance
+Reliable transportation
+Main Schedule: Monday-Friday daytime
+Occasional: After hours or weekend Priority1 emergency call-out
+Phone with unlimited data
+Laptop/tablet
+Basic tool
+Able to lift up to 70lbs
+
+
+
+
+
+Blue Signal 
+
+Web Developer 
+
+Web Developer
+Our client is a dynamic and innovative organization committed to delivering high-quality, scalable, and efficient software solutions. They are seeking a talented and experienced Web Developer who possesses at least three years of practical proficiency in web development technologies. This role requires a keen eye for precision and a commitment to producing high-quality, detailed work.
+Please read before applying: You MUST be a US citizen or green-card or TN holder to work in this role, unfortunately no sponsorship or student visas will be accepted.
+Compensation: $65k-$75k with equity is the range.
+This Role Offers:
+Opportunity to work with a talented and passionate team.
+Engage in challenging and innovative projects.
+Competitive compensation and benefits package.
+A supportive and collaborative work environment.
+Focus:
+Build, maintain, and enhance web applications using HTML, PHP, and JavaScript.
+Collaborate with cross-functional teams to design user-friendly and responsive websites.
+Ensure code accuracy and functionality through regular testing and debugging.
+Stay current with the latest web development trends and technologies, especially those related to the digital art and blockchain sectors).
+Optimize web applications for speed, scalability, and user performance.
+Develop and implement APIs and third-party integrations to enhance web functionality.
+Conduct regular security audits and implement best practices to safeguard web applications.
+Participate in code reviews, providing constructive feedback to team members
+Skill Set:
+Minimum of 3 years of professional experience in web development, with a focus on HTML, PHP, and JavaScript.
+Strong understanding of front-end and back-end development practices.
+Experience with version control systems such as Git.
+Familiarity with web frameworks and content management systems (e.g., Laravel, WordPress).
+Proficiency in creating responsive designs and ensuring cross-browser compatibility.
+Excellent troubleshooting and problem-solving skills.
+Ability to work independently and manage multiple tasks simultaneously.
+Strong written and verbal communication skills to effectively collaborate with teams.
+Must be a US citizen or green-card or TN holder.
+
+
+Desktop Support Technician 
+Omzig
+Omzig is a leading provider of information technology services for small and medium-sized businesses. As a managed services provider, we offer monitoring, maintenance, and implementation of servers, desktops, and network equipment. We bring enterprise-class solutions typically reserved for large organizations to smaller businesses, leading to more efficient operations and increased profitability.
+Role Description
+This is a part-time contract remote role for a Desktop Support Technician at Omzig. The role involves providing technical support for desktop computers, troubleshooting issues, offering printer support, and performing necessary computer repairs. The technician will ensure the smooth operation of desktop systems and peripherals.
+We are looking for someone with excellent communication skills who can take initiative.
+Qualifications
+Desktop Computers and Troubleshooting skills
+Technical Support and Computer Repair abilities
+Printer Support Expertise
+Ability to prioritize and manage tasks efficiently
+Strong communication and customer service skills
+Attention to detail and problem-solving capabilities
+Experience in IT support or related fields is a must
+A degree in Information Technology or relevant certification is preferred
+Microsoft certifications are preferred
+Knowledge of Microsoft 365 is a must
+
+
+
+
+Part Time Evaluator - IT Data Analytics 
+Western Governors University 
+Saince has been a leading healthcare technology and services company, serving the needs of hospitals and health systems across the country and all over the globe for over two decades. We are currently looking to hire a senior software engineer to work on an exciting new project.
+Job Title: Windows Application Developer
+The candidate must have at least 5 years or more of experience in the following skills:. Prior healthcare application development experience, especially in the EMR space, is highly desired. Candidates must possess strong communication skills and a strong work ethic. They must be self-motivated and able to work under minimal supervision. They should be comfortable working in a small team consisting of global resources. The candidate should be able to perform under pressure with aggressive go-to-market deadlines.
+C#, WinForms (Expert Level Skills Required)
+SQL Server
+API development
+Prior healthcare application development experience is strongly desired
+Strong knowledge of application security, authentication is required
+Industry
+Hospitals and Health Care
+Employment Type
+Full-time
+
