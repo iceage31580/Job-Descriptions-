@@ -1,0 +1,34 @@
+IT/Admin Supervisor 
+
+Vesta Food Service 
+
+System Administrator (Part-Time)
+St. Mary's Academy
+10/2023
+Inglewood, California
+Managed and maintained a catalog of over 1,500 assets, including computers, headphones, and other devices loaned out to staff and students, ensuring accurate record-keeping and consistent updates.
+Administered Active Directory, Microsoft 365, and SharePoint, providing account management and technical support to staff and students.
+Conducted monthly technology checks and annual device collection, cleaning, and reorganization of student technology carts, maintaining optimal functionality and accessibility.
+Provided Tier 1, 2, & 3 support, resolving hardware, software, and network issues, including internet connectivity and Google Suite access.Collaborated with the Head of School and Director of Finance to report on progress and ensure consistent technology support.
+Implemented and managed Cisco Meraki switches, developed policies for VLANs, and maintained network security and efficiency.
+Reduced technology costs by 70% through effective vendor management and negotiation.
+IT/Gaming Support Technician (Night Shift)
+The Commerce Casino
+02/2022 - Present
+Commerce, California
+Expertly troubleshooted and repaired network devices, including switches, routers, and cables, ensuring uninterrupted network connectivity for a network of over 1,000 computers and devices.
+Conducted monthly inventory checks and maintenance for all gaming-related technology, including shuffler machines, ensuring all devices were in optimal condition and tagged appropriately.
+Managed technology storage areas, organized assets, and coordinated the removal of outdated equipment via E-Waste processes
+Provided exceptional customer service while resolving an average of 100 technical tickets per week using ServiceNow.
+Programmed and tested camera modules on Raspberry Pi & Orange Pi devices using Linux, ensuring high-quality video streaming for gaming tables.
+Leveraged PowerShell and SQL to perform complex database tasks and automate technical processes, improving efficiency.
+Demonstrated mechanical aptitude by replacing damaged motors, sensors, and electrical components in casino equipment
+Desktop Support Specialist (Night Shift)
+Burlington Convalescent Hospital
+01/2013 - 12/2022
+Los Angeles, California
+Provided technical support and troubleshooting for staff and developers, resolving software and hardware issues to maintain project timelines and efficiency.
+Conducted regular technology audits and ensured all devices and assets were tagged, documented, and aligned with project requirements.
+Coordinated with technology vendors and managed purchasing requests, optimizing cost efficiency and ensuring high-quality deliverables.
+Maintained organized and secure technology storage and workspace environments, promoting safety and efficiency for project teams.
+Managed hospital's Point-Click-Care
